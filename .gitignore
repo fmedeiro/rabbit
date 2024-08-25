@@ -1,4 +1,8 @@
 .metadata/
+email-api/.classpath
+email-api/.mvn/**
+email-api/.project
+email-api/.settings/**
 rabbit-api/.classpath
 rabbit-api/.mvn/**
 rabbit-api/.project
