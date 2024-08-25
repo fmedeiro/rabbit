@@ -1,3 +1,5 @@
 .metadata/
+rabbit-api/.classpath
+rabbit-api/.mvn/**
 rabbit-api/.project
 rabbit-api/.settings/**
